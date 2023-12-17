@@ -1,6 +1,8 @@
 # Hundir-la-Flota
 Hundir la Flota entregable #1
 
+Autor: Jesxamir Garcia Berrios
+
 
 PRIMER PASO: Definicion de funciones 
 
