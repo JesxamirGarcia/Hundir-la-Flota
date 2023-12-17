@@ -1,6 +1,5 @@
 # Hundir-la-Flota
 Hundir la Flota entregable #1
-
 PRIMER PASO: Definicion de funciones 
 
 Se realizo una funcion para crear 3 tableros: 
@@ -34,3 +33,4 @@ Se inserto con un print letras especiales de ASCII.
 Se ingreso un input para dar incio al juego mediante un "enter"
 En el desarollo del juego programe un bucle "while True" para colocar los barcos e impirmir los barcos para la visualizacion del jugador 1. 
 Cree un bucle "while True" con las condiciones if, elif, else donde se llamaron las funciones de "Def accion_disparo1" y "accion_disparo2" para ejecutar el juego. 
+
