@@ -1,5 +1,7 @@
 # Hundir-la-Flota
 Hundir la Flota entregable #1
+
+
 PRIMER PASO: Definicion de funciones 
 
 Se realizo una funcion para crear 3 tableros: 
@@ -14,12 +16,15 @@ SEGUNDO PASO: Tableros
 
 Se crearon los tableros 1, tablero 2 y tablero_vacio. 
 Se ubicaron los barcos con coordenadas fijas: 
+  
     a. fijos_1 = [
         [(4, 3)], [(7,0)], [(6, 2)], [(7, 5)],
         [(1, 8), (1, 7)], [(1, 2), (1, 1)], [(5, 1), (5, 2)],
         [(6, 0), (5, 0), (4, 0)],  [(4, 6), (5, 6), (6, 6)],
         [(0, 5), (0, 6), (0, 7), (0, 8)]
         ]
+   
+    
     b. fijos_2 = [
         [(9, 8)], [(8, 3)], [(8, 1)], [(5, 1)],
         [(4, 6), (4, 7)], [(4, 5), (3, 5)], [(1, 7), (1, 6)],
